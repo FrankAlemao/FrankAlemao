@@ -77,13 +77,3 @@
 ---
 
 <div align="center">
-
-### ✍️ Daily Developer Thought
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<br/>
-
-👁️ **Profile Views:**  
-[![](https://komarev.com/ghpvc/?username=FrankAlemao&icon=2&color=1)](https://visitcount.itsvg.in)
-
-</div>
