@@ -51,6 +51,7 @@
 ---
 
 ### 🚀 Featured Project
-- 🍽️ **[Pure Bite Kitchen](https://frankalemaof.wixsite.com/my-site-1)** – Complete website design and digital branding showcase.
-
+- 🚧 **[Pilarnkar Enterprise](https://pilarnkar.vercel.app)** – Complete website design and digital branding showcase.
+- 
+- 🍽️ **[Pure Bite Kitchen](https://frankalemaof.wixsite.com/my-site-1)** – sample website design and digital branding showcase.
 ---
