@@ -1,4 +1,4 @@
-[ai_studio_code (2).txt](https://github.com/user-attachments/files/31846669/ai_studio_code.2.txt)
+
 <div align="center">
 
 # Hi there, I'm Frank Alemao 👋
